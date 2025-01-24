@@ -125,6 +125,8 @@ and in dark mode:
 
 
 
+### Proof Images:
+
 ![Screenshot 2024-10-15 161458.png](wiki/Android/proof/Screenshot 2024-10-15 161458.png)
 
 ![Screenshot 2024-10-15 161510.png](wiki/Android/proof/Screenshot 2024-10-15 161510.png)
@@ -239,6 +241,8 @@ and open it using Android Studio. after set up the android code and run it need 
 ![alt text](<Proof/Screenshot 2024-10-18 142059.png>)
 
 
+
+### Proof Images:
 
 ![Screenshot 2024-10-15 161458.png](wiki/Android/proof/Screenshot 2024-10-15 161458.png)
 
@@ -404,6 +408,8 @@ and in dark mode:
 <img src="../web/proof/23.png" width="auto" height="400"/>
 
 
+
+### Proof Images:
 
 ![1.png](wiki/web/proof/1.png)
 

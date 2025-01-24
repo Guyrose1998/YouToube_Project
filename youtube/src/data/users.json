@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "username": "john.doe",
+      "password": "Password123!",
+      "image": "https://github.com/mdo.png"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "username": "jane.smith",
+      "password": "Password456?",
+      "image": "https://github.com/mdo.png"
+    }
+  ]
+}

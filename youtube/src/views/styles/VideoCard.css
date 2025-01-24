@@ -1,0 +1,95 @@
+.card {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  justify-content: flex-start;
+ padding-left: 5px;
+ padding-right: 5px;
+  margin: 0px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-color: transparent;
+  height: 100%;
+  display: flexbox;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.card-img-top {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.dark-mode .card {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  justify-content: flex-start;
+ padding-left: 5px;
+ padding-right: 5px;
+  margin: 0px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-color: transparent;
+  background-color: #555;
+  color: white;  
+  border-color: #555;
+}
+
+
+
+.dark-mode .card-body {
+  display: flex;
+  width: 80%;
+  flex-direction: column;
+  justify-content: flex-start;
+ padding-left: 5px;
+ padding-right: 5px;
+  margin: 0px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-color: transparent;
+  background-color: #555;
+  color: white;  
+  border-color: #555;
+}
+
+.dark-mode .card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  justify-content: flex-start;
+  margin-left: 0px;
+  text-align: start;
+
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  justify-content: flex-start;
+  margin-left: 0px;
+  text-align: start;
+}
+
+.card-text {
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+  cursor: pointer;
+  margin: 0 12px;
+  flex: auto;
+  display: flexbox;
+  display: flex;
+  /* flex-direction: row */
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+  
